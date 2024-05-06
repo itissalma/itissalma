@@ -6,28 +6,37 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salma-aly-4344241b6/) 
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,c,csharp" />
-    <img src="https://skillicons.dev/icons?i=css3,html5" />
-    <img src="https://skillicons.dev/icons?i=java,js" />
-    <img src="https://skillicons.dev/icons?i=latex,python" />
-    <img src="https://skillicons.dev/icons?i=rust,typescript" />
-    <img src="https://skillicons.dev/icons?i=aws,dotnet" />
-    <img src="https://skillicons.dev/icons?i=angular,angularjs" />
-    <img src="https://skillicons.dev/icons?i=electron,flask" />
-    <img src="https://skillicons.dev/icons?i=flutter,nextjs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,qt" />
-    <img src="https://skillicons.dev/icons?i=react,redux" />
-    <img src="https://skillicons.dev/icons?i=tauri,mysql" />
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
-    <img src="https://skillicons.dev/icons?i=redis,keras" />
-    <img src="https://skillicons.dev/icons?i=matplotlib,numpy" />
-    <img src="https://skillicons.dev/icons?i=pandas,pytorch" />
-    <img src="https://skillicons.dev/icons?i=scikitlearn,scipy" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-</p>
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
+![CSS3](https://skillicons.dev/icons?i=css)
+![HTML5](https://skillicons.dev/icons?i=html)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![LaTeX](https://skillicons.dev/icons?i=latex)
+![Python](https://skillicons.dev/icons?i=py)
+![Rust](https://skillicons.dev/icons?i=rust)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![AWS](https://skillicons.dev/icons?i=aws)
+![.Net](https://skillicons.dev/icons?i=dotnet)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Electron.js](https://skillicons.dev/icons?i=electron)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Qt](https://skillicons.dev/icons?i=qt)
+![React Native](https://skillicons.dev/icons?i=react)
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Tauri](https://skillicons.dev/icons?i=tauri)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Redis](https://skillicons.dev/icons?i=redis)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itissalma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
