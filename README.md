@@ -1,8 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm a backend developer based in Dubai with a strong foundation in Computer Science and a Mathematics minor from AUC. Since graduating, I've been building scalable backend systems using Go, TypeScript, and Python, focusing on performance, reliability, and clean architecture. 🛠️🚀<br><br>  
-I thrive on solving complex problems and turning ideas into production-ready systems. Whether it's designing APIs, integrating cloud services, or optimizing backend workflows, I’m passionate about writing efficient, maintainable code that drives real impact. 🌍⚙️<br><br>  
-Beyond backend engineering, I have a keen interest in data and machine learning, having explored areas like deep learning and applied AI through academic and personal projects. 🧠📊<br><br>  
-I'm always excited to collaborate on meaningful tech projects, learn new tools, and keep growing as a developer. Let’s connect and build something great together! 💡💬
+👋 Hey there! I'm a backend developer based in Dubai with a strong foundation in Computer Science and a Mathematics minor from AUC. Since graduating, I've been building scalable backend systems using Go, TypeScript, and Python, focusing on performance, reliability, and clean architecture. <br><br>🛠️🚀 I thrive on solving complex problems and turning ideas into production-ready systems. Whether it's designing APIs, integrating cloud services, or optimizing backend workflows, I’m passionate about writing efficient, maintainable code that drives real impact.<br><br>🌍⚙️ Beyond backend engineering, I have a keen interest in data and machine learning, having explored areas like deep learning and applied AI through academic and personal projects.<br><br>🧠📊 I'm always excited to collaborate on meaningful tech projects, learn new tools, and keep growing as a developer. Let’s connect and build something great together!
 
 
 ## 🌐 Socials:
