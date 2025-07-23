@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hey there! I'm a Computer Science senior with a minor in Mathematics at AUC, where I'm passionately diving into the world of technology. As a software engineer, I thrive on crafting robust solutions, especially in the realms of full-stack and backend development. 🚀<br><br>With a slew of web and app projects under my belt, I've danced through the intricacies of code to bring digital dreams to life. 💻✨ But that's not all—I've also delved into the enchanting world of AI, dabbling in deep learning and machine learning through courses and projects that have broadened my horizons. 🧠💡<br><br>Join me on this exhilarating journey through the realms of tech and innovation! Let's build, learn, and create magic together. 🌟✨
+👋 Hey there! I'm a backend developer based in Dubai with a strong foundation in Computer Science and a Mathematics minor from AUC. Since graduating, I've been building scalable backend systems using Go, TypeScript, and Python, focusing on performance, reliability, and clean architecture. 🛠️🚀<br><br>  
+I thrive on solving complex problems and turning ideas into production-ready systems. Whether it's designing APIs, integrating cloud services, or optimizing backend workflows, I’m passionate about writing efficient, maintainable code that drives real impact. 🌍⚙️<br><br>  
+Beyond backend engineering, I have a keen interest in data and machine learning, having explored areas like deep learning and applied AI through academic and personal projects. 🧠📊<br><br>  
+I'm always excited to collaborate on meaningful tech projects, learn new tools, and keep growing as a developer. Let’s connect and build something great together! 💡💬
 
 
 ## 🌐 Socials:
